@@ -3,7 +3,6 @@ layout: default
 title: Henry Tsai | Robotics & CS
 ---
 
-# Henry Tsai
 **USACO Gold | Robotics Researcher | Horace Mann '28**
 
 [Resume](assets/Henry_Tsai_Resume.pdf) • [Email](mailto:henryhytsai@gmail.com)

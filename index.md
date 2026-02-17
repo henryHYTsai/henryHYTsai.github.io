@@ -24,7 +24,7 @@ I designed, manufactured, and tested a 3D printed **Quasi-Direct Drive (QDD)** a
 * **Continuous Torque:** Optimized thermal management to double the continuous torque limit compared to previous 3D-printed actuators.
 * **Design:** Custom cycloidal planetary gearbox (7.2:1) with a custom outrunner BLDC motor. Calculated bearing loads and optimized core actuator components.
 * [Technical Overview (PDF)](assets/actuator-overview.pdf)
-* [Read the Full Research Paper (PDF)](assets/actuator-research.pdf)
+* [Read the Full Research Paper (PDF)](assets/actuator-paper.pdf)
 
 ---
 
